@@ -11,9 +11,10 @@ popular accessories.
 ## Assemble the Bot
 <table>
   <tr>
+    <td><img src="https://user-images.githubusercontent.com/85764700/206234213-6b3243e9-deb1-4652-8ce6-5eb8eeb03ce6.jpeg" width=290 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/85764700/206229965-d7d0bcbe-3580-4f56-9579-1900b44110d7.png" width=290 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/85764700/206232145-8186a6ef-6dad-4e39-b074-56404efcec0c.jpeg" width=290 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/85764700/206234213-6b3243e9-deb1-4652-8ce6-5eb8eeb03ce6.jpeg" width=290 height=480></td>
+    
   </tr>
  </table>
 
