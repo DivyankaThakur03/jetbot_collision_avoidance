@@ -32,7 +32,7 @@ You'll see the following jupyter notebooks -
 - 03_live_execute.ipynb
 
 ### Data collection
-I collected approximately 600 images for each class - free & block
+I collected approximately 600 images for each class - free & block.
 The dataset is linked here [Dataset](https://drive.google.com/file/d/1PRIKbKASDO5khjF9uwhFNXnajOUJ7-sB/view?usp=sharing)
 <table>
   <tr>
