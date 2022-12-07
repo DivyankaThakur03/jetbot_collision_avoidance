@@ -35,16 +35,16 @@ You'll see the following jupyter notebooks -
 I collected approximately 600 images for each class - free & block
 <table>
   <tr>
-  <img src="https://user-images.githubusercontent.com/85764700/206235616-91eefb73-e054-42d6-bab7-bd34d5b48065.png" width=800 height=350>
+  <img src="https://user-images.githubusercontent.com/85764700/206235616-91eefb73-e054-42d6-bab7-bd34d5b48065.png" width=850 height=480>
   </tr>
- </table>
+</table>
 ### Training the model
- <table>
+<table>
   <tr>
-    
-    <img src="https://user-images.githubusercontent.com/85764700/206235894-fe9cd946-a412-4087-bc4b-2295ca15f94a.png" width=800 height=350>
+  <img src="https://user-images.githubusercontent.com/85764700/206235894-fe9cd946-a412-4087-bc4b-2295ca15f94a.png" width=850 height=480>
   </tr>
- </table>
+</table>
+
 
 
 
