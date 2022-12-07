@@ -42,7 +42,7 @@ The dataset is linked here [Dataset](https://drive.google.com/file/d/1PRIKbKASDO
 
 ### Training the model
 Trained the model on Resnet-18 architecture for 60 epochs </br>
-Model file attached here [best_model_jetbot.pth]()
+Model file attached here [best_model_jetbot.pth](https://drive.google.com/file/d/1C4nTLIEZQceznKGe-6ACGOngRE3ogz5S/view?usp=share_link)
 
 <table>
   <tr>
