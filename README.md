@@ -32,7 +32,7 @@ You'll see the following jupyter notebooks -
 - 03_live_execute.ipynb
 
 ### Data collection
-I collected approximately 600 images for each class - free & block.
+I collected approximately 600 images for each class - free & block. </br>
 The dataset is linked here [Dataset](https://drive.google.com/file/d/1PRIKbKASDO5khjF9uwhFNXnajOUJ7-sB/view?usp=sharing)
 <table>
   <tr>
@@ -41,7 +41,9 @@ The dataset is linked here [Dataset](https://drive.google.com/file/d/1PRIKbKASDO
 </table>
 
 ### Training the model
-Trained the model on Resnet-18 architecture for 60 epochs
+Trained the model on Resnet-18 architecture for 60 epochs </br>
+Model file attached here [best_model_jetbot.pth]()
+
 <table>
   <tr>
   <img src="https://user-images.githubusercontent.com/85764700/206235894-fe9cd946-a412-4087-bc4b-2295ca15f94a.png" width=850 height=480>
