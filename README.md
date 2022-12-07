@@ -38,6 +38,7 @@ I collected approximately 600 images for each class - free & block
   <img src="https://user-images.githubusercontent.com/85764700/206235616-91eefb73-e054-42d6-bab7-bd34d5b48065.png" width=850 height=480>
   </tr>
 </table>
+
 ### Training the model
 <table>
   <tr>
