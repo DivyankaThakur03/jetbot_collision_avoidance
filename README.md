@@ -48,6 +48,8 @@ Trained the model on Resnet-18 architecture for 60 epochs
   </tr>
 </table>
 
+### Live Demo
+https://user-images.githubusercontent.com/85764700/206239976-29c34451-3cd5-4479-823f-f3d1d9d955cb.mp4
 
 
 
