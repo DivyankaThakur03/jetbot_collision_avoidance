@@ -31,14 +31,17 @@ You'll see the following jupyter notebooks -
 - 02_train_model.ipynb
 - 03_live_execute.ipynb
 
-### Data collection 
 
-I collected approximately 600 images for each class - free & block
-Dataset - https://drive.google.com/file/d/1PRIKbKASDO5khjF9uwhFNXnajOUJ7-sB/view?usp=sharing
-![new](https://user-images.githubusercontent.com/85764700/206235616-91eefb73-e054-42d6-bab7-bd34d5b48065.png)
-### Training the model
-
-
-![new1](https://user-images.githubusercontent.com/85764700/206235894-fe9cd946-a412-4087-bc4b-2295ca15f94a.png)
+<table>
+  <tr>
+    <td>### Data collection</td>
+    <td>I collected approximately 600 images for each class - free & block</td>
+    <td><img src="https://user-images.githubusercontent.com/85764700/206235616-91eefb73-e054-42d6-bab7-bd34d5b48065.png" width=460 height=180></td>
+  </tr>
+  <tr>
+    <td>### Training the model</td>
+    <td><img src="https://user-images.githubusercontent.com/85764700/206235894-fe9cd946-a412-4087-bc4b-2295ca15f94a.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 
