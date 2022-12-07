@@ -10,4 +10,4 @@ popular accessories.
 
 ## Assemble the Bot
 
-![WhatsApp Image 2022-12-07 at 9 11 31 PM](https://user-images.githubusercontent.com/85764700/206227344-e83a611f-3822-4e85-981e-af6f432b991e.jpeg)
+![WhatsApp Image 2022-12-07 at 9 11 31 PM](https://user-images.githubusercontent.com/85764700/206228179-3c27577e-ff2d-467c-8152-729c3022c283.png)
