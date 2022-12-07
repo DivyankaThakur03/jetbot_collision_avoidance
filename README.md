@@ -10,4 +10,14 @@ popular accessories.
 
 ## Assemble the Bot
 
-![WhatsApp Image 2022-12-07 at 9 11 31 PM (1)](https://user-images.githubusercontent.com/85764700/206229965-d7d0bcbe-3580-4f56-9579-1900b44110d7.png)
+![WhatsApp Image 2022-12-07 at 9 11 31 PM (1)](https://user-images.githubusercontent.com/85764700/206229965-d7d0bcbe-3580-4f56-9579-1900b44110d7.png) , ![blah](https://user-images.githubusercontent.com/85764700/206232145-8186a6ef-6dad-4e39-b074-56404efcec0c.jpeg)
+
+## Clone the repository
+
+```bash
+  git clone https://github.com/DivyankaThakur03/jetbot_collision_avoidance.git
+  cd jetbot_collision_avoidance
+```
+
+You'll see the following jupyter notebooks -
+
